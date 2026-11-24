@@ -2,6 +2,8 @@
 
 Komplette Kfz-Verwaltung für Linux Mint 22.x (GTK 3) – das gesamte Programm in **einer einzigen Python-Datei**: `Kfz-Verwaltung-1.12.py` (Version 1.12).
 
+Die Änderungshistorie der letzten Versionen findet sich im [Changelog](CHANGELOG.md).
+
 ## Über das Projekt
 
 Die Kfz-Verwaltung ist eine Desktop-Anwendung zur Verwaltung eines oder mehrerer Fahrzeuge. Alle Daten liegen als JSON-Dateien lokal auf dem eigenen Rechner (`~/.kfz-verwaltung/`) – es gibt keine Cloud, keine Anmeldung und keine Übertragung persönlicher Daten.
