@@ -65,3 +65,13 @@ Der Dateiname trägt die Version (`Kfz-Verwaltung-<Version>.py`), z. B. `Kfz-Ver
 ## Haftungshinweis
 
 Die Anwendung dient der privaten Verwaltung von Fahrzeugdaten. Es wird keine Gewähr für die Vollständigkeit oder Richtigkeit der berechneten Werte übernommen.
+
+## License
+
+Dieses Projekt ist unter der **GNU General Public License Version 3.0 oder einer späteren Version (GPL-3.0-or-later)** lizenziert.
+
+Du darfst diese Software gemäß den Bedingungen der Lizenz frei verwenden, untersuchen, verändern und weiterverbreiten. Wenn du diese Software oder veränderte Versionen davon weiterverbreitest, musst du die Bedingungen der Lizenz **GPL-3.0-or-later** einhalten. Dazu gehört auch, den entsprechenden Quellcode zugänglich zu machen.
+
+Den vollständigen Lizenztext findest du in der Datei LICENSE.md.
+
+Copyright (c) 2026 - 5oreh
