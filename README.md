@@ -8,6 +8,10 @@ Die Änderungshistorie der letzten Versionen findet sich im [Changelog](CHANGELO
 
 Die Kfz-Verwaltung ist eine Desktop-Anwendung zur Verwaltung eines oder mehrerer Fahrzeuge. Alle Daten liegen als JSON-Dateien lokal auf dem eigenen Rechner (`~/.kfz-verwaltung/`) – es gibt keine Cloud, keine Anmeldung und keine Übertragung persönlicher Daten.
 
+## Abbildung
+
+![Kfz-Verwaltung](images/kfz-verwaltung.png)
+
 ## Module im Überblick
 
 | Modul | Inhalt |
