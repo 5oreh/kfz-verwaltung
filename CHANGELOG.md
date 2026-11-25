@@ -3,6 +3,11 @@
 Alle nennenswerten Änderungen der letzten Versionen der Kfz-Verwaltung.
 Das Format orientiert sich an [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.13] – 2026-11-25
+
+### Geändert
+- Modul „TÜV / HU“ durchgängig in „Hauptuntersuchung“ umbenannt: Seitenleiste, Seitentitel, Dialogtitel, Dashboard-Kennzahl „Nächste HU“, Kosten-Aufschlüsselung und Jahres-Tabelle in den Auswertungen sowie die Infotexte
+
 ## [1.12] – 2026-11-24
 
 ### Behoben

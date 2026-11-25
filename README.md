@@ -1,6 +1,6 @@
 # Kfz-Verwaltung
 
-Komplette Kfz-Verwaltung für Linux Mint 22.x (GTK 3) – das gesamte Programm in **einer einzigen Python-Datei**: `Kfz-Verwaltung-1.12.py` (Version 1.12).
+Komplette Kfz-Verwaltung für Linux Mint 22.x (GTK 3) – das gesamte Programm in **einer einzigen Python-Datei**: `Kfz-Verwaltung-1.13.py` (Version 1.13).
 
 Die Änderungshistorie der letzten Versionen findet sich im [Changelog](CHANGELOG.md).
 
@@ -18,7 +18,7 @@ Die Kfz-Verwaltung ist eine Desktop-Anwendung zur Verwaltung eines oder mehrerer
 | --- | --- |
 | **Dashboard** | Kennzahlen (Gesamtkosten, Ø Verbrauch, nächster TÜV), Kosten je Jahr und der komplette Fahrzeugbestand (Name und Kennzeichen) |
 | **Fahrzeugdaten** | Stammdaten (Hersteller, Modell, Kennzeichen, VIN, Erstzulassung …) und Technikdaten (Hubraum, Gewichte, Reifengrößen, Reifendrücke …) |
-| **TÜV / HU** | Datum und Ergebnis von Hauptuntersuchungen, nächster Termin und ausführliche Notizen (großes Textfeld) – der nächste Termin erscheint automatisch im Dashboard |
+| **Hauptuntersuchung** | Datum und Ergebnis von Hauptuntersuchungen, nächster Termin und ausführliche Notizen (großes Textfeld) – der nächste Termin erscheint automatisch im Dashboard |
 | **Service** | durchgeführte Arbeiten mit Datum, km-Stand, Kosten, Werkstatt und einem großen Textfeld für die Beschreibung |
 | **Wartung** | Wartungs-Check mit Datum, km-Stand, Kühlflüssigkeit, Ölständen (Motor/Getriebe/Servopumpe), Batteriespannung und Luftdruck (VL/HL/VR/HR) sowie Bemerkungen |
 | **Reifen** | Reifensätze mit Sommer-/Winterkennzeichnung, Kosten und Wechsel-Notizen |
@@ -50,11 +50,11 @@ Voraussetzungen: Linux Mint 22.x (oder andere Debian-basierte Distributionen) mi
 
 ```bash
 sudo apt install python3 python3-gi gir1.2-gtk-3.0
-chmod +x Kfz-Verwaltung-1.12.py
-./Kfz-Verwaltung-1.12.py
+chmod +x Kfz-Verwaltung-1.13.py
+./Kfz-Verwaltung-1.13.py
 ```
 
-oder alternativ: `python3 Kfz-Verwaltung-1.12.py`
+oder alternativ: `python3 Kfz-Verwaltung-1.13.py`
 
 ## Daten, Backup & Export
 
@@ -64,7 +64,7 @@ oder alternativ: `python3 Kfz-Verwaltung-1.12.py`
 
 ## Versionierung
 
-Der Dateiname trägt die Version (`Kfz-Verwaltung-<Version>.py`), z. B. `Kfz-Verwaltung-1.12.py` für Version 1.12. Jede Ausbaustufe liegt als eigene, vollständig lauffähige Datei vor.
+Der Dateiname trägt die Version (`Kfz-Verwaltung-<Version>.py`), z. B. `Kfz-Verwaltung-1.13.py` für Version 1.12. Jede Ausbaustufe liegt als eigene, vollständig lauffähige Datei vor.
 
 ## Haftungshinweis
 
