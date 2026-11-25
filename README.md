@@ -64,7 +64,7 @@ oder alternativ: `python3 Kfz-Verwaltung-1.2.py`
 
 ## Versionierung
 
-Der Dateiname trägt die Version (`Kfz-Verwaltung-<Version>.py`), z. B. `Kfz-Verwaltung-1.2.py` für Version 1.13. Jede Ausbaustufe liegt als eigene, vollständig lauffähige Datei vor. Ältere Programmversionen stehen als Download unter „Releases“ bereit.
+Der Dateiname trägt die Version (`Kfz-Verwaltung-<Version>.py`), z. B. `Kfz-Verwaltung-1.2.py` für Version 1.2. Jede Ausbaustufe liegt als eigene, vollständig lauffähige Datei vor. Ältere Programmversionen stehen als Download unter „Releases“ bereit.
 
 ## Haftungshinweis
 
