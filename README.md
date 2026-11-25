@@ -16,7 +16,7 @@ Die Kfz-Verwaltung ist eine Desktop-Anwendung zur Verwaltung eines oder mehrerer
 
 | Modul | Inhalt |
 | --- | --- |
-| **Dashboard** | Kennzahlen (Gesamtkosten, Ø Verbrauch, nächster TÜV), Kosten je Jahr und der komplette Fahrzeugbestand (Name und Kennzeichen) |
+| **Dashboard** | Kennzahlen (Gesamtkosten, Ø Verbrauch, nächste HU), Kosten je Jahr und der komplette Fahrzeugbestand (Name und Kennzeichen) |
 | **Fahrzeugdaten** | Stammdaten (Hersteller, Modell, Kennzeichen, VIN, Erstzulassung …) und Technikdaten (Hubraum, Gewichte, Reifengrößen, Reifendrücke …) |
 | **Hauptuntersuchung** | Datum und Ergebnis von Hauptuntersuchungen, nächster Termin und ausführliche Notizen (großes Textfeld) – der nächste Termin erscheint automatisch im Dashboard |
 | **Service** | durchgeführte Arbeiten mit Datum, km-Stand, Kosten, Werkstatt und einem großen Textfeld für die Beschreibung |
