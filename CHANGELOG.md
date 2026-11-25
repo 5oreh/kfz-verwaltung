@@ -3,6 +3,12 @@
 Alle nennenswerten Änderungen der letzten Versionen der Kfz-Verwaltung.
 Das Format orientiert sich an [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.2] – 2026-11-25
+
+### Geändert
+- Auswertungen, oberste Box „Gesamtkosten“: Aufschlüsselungszeilen (Tanken, Hauptuntersuchung, Service, Reifen, Versicherungen / Kfz-Steuer) exakt linksbündig unter der Überschrift
+- Versionierung: fortan fortlaufend als „1.2“, Datei Kfz-Verwaltung-1.2.py
+
 ## [1.13] – 2026-11-25
 
 ### Geändert

@@ -1,6 +1,6 @@
 # Kfz-Verwaltung
 
-Komplette Kfz-Verwaltung für Linux Mint 22.x (GTK 3) – das gesamte Programm in **einer einzigen Python-Datei**: `Kfz-Verwaltung-1.13.py` (Version 1.13).
+Komplette Kfz-Verwaltung für Linux Mint 22.x (GTK 3) – das gesamte Programm in **einer einzigen Python-Datei**: `Kfz-Verwaltung-1.2.py` (Version 1.2).
 
 Die Änderungshistorie der letzten Versionen findet sich im [Changelog](CHANGELOG.md).
 
@@ -50,11 +50,11 @@ Voraussetzungen: Linux Mint 22.x (oder andere Debian-basierte Distributionen) mi
 
 ```bash
 sudo apt install python3 python3-gi gir1.2-gtk-3.0
-chmod +x Kfz-Verwaltung-1.13.py
-./Kfz-Verwaltung-1.13.py
+chmod +x Kfz-Verwaltung-1.2.py
+./Kfz-Verwaltung-1.2.py
 ```
 
-oder alternativ: `python3 Kfz-Verwaltung-1.13.py`
+oder alternativ: `python3 Kfz-Verwaltung-1.2.py`
 
 ## Daten, Backup & Export
 
@@ -64,7 +64,7 @@ oder alternativ: `python3 Kfz-Verwaltung-1.13.py`
 
 ## Versionierung
 
-Der Dateiname trägt die Version (`Kfz-Verwaltung-<Version>.py`), z. B. `Kfz-Verwaltung-1.13.py` für Version 1.13. Jede Ausbaustufe liegt als eigene, vollständig lauffähige Datei vor.
+Der Dateiname trägt die Version (`Kfz-Verwaltung-<Version>.py`), z. B. `Kfz-Verwaltung-1.2.py` für Version 1.13. Jede Ausbaustufe liegt als eigene, vollständig lauffähige Datei vor. Ältere Programmversionen stehen als Download unter „Releases“ bereit.
 
 ## Haftungshinweis
 
